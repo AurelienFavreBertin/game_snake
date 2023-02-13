@@ -247,7 +247,7 @@ window.onload = function () {
     ctx.fillText("Game Over", centreX, centreY - 50);
     ctx.font = "bold 30px sans-serif";
     ctx.strokeText(
-      "Appuyer sur la touche Espace pour rejouer",
+      "Appuyer sur la touche Espace pour rejouer !",
       centreX,
       centreY + 10
     );
