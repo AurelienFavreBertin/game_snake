@@ -252,7 +252,7 @@ window.onload = function () {
       centreY + 10
     );
     ctx.fillText(
-      "Appuyer sur la touche Espace pour rejouer",
+      "Appuyer sur la touche Espace pour rejouer !",
       centreX,
       centreY + 10
     );
